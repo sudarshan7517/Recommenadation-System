@@ -13,3 +13,5 @@ There are several types of recommendation systems, including:
 4.Matrix Factorization: Using this method, the user-item matrix is divided into two lower-dimension matrices that are then utilized to generate predictions.
 
 5.Deep Learning: To train the user and item representations that are subsequently utilized to generate recommendations, these models make use of neural networks.
+
+The choice of which type of recommendation system to use depends on the specific application and the type of data available.

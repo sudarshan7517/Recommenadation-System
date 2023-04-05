@@ -1,4 +1,4 @@
-# Recommenadation-System
+# Recommenadation System
 
 A machine learning algorithm known as a recommendation system combines information about users and products to forecast a user's potential interests. These systems are used in a wide range of applications, such as e-commerce, social media, and entertainment, to provide personalized recommendations to users.
 
